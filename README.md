@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @Sambhav-karn
+- 👀 I’m interested in Learning something New
+- 🌱 I’m currently learning Python, MySQL, GCP, Advance Excel
+- 💞️ I’m looking to collaborate with you to become a good Data Analyst
+- 📫 Reach me @sambhavkarn7@gmail.com
+
+<!---
+Sambhav-karn/Sambhav-karn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
