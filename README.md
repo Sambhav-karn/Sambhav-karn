@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sambhav-karn
+- 👋 Hi, I’m @Sambhav-kumar
 - 👀 I’m interested in Learning something New
 - 🌱 I’m currently learning Python, MySQL, GCP, Advance Excel
 - 💞️ I’m looking to collaborate with you to become a good Data Analyst
